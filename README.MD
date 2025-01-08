@@ -41,7 +41,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  Pesquisa Inicial  | Haja como um trabalhador brasileiro e me diga quais os principais temas relacionados ao FGTS você gostaria de saber ou entender melhor |
+|  Pesquisa Inicial  | Aja como um trabalhador brasileiro e me diga quais os principais temas relacionados ao FGTS você gostaria de saber ou entender melhor |
 |  título  | crie um título de um e-book sobre o tema FGTS, com os principais assuntos que você sugeriu anteriormente, o título deve ser curto e épico, e ter uma temática de game clássico no titulo, me liste 5 variações de títulos |
 | conteúdo | Faça um texto para ebook, listando os assuntos mais importantes destacados anteriormente {REGRAS} Explique sempre de maneira simples, Deixe o texto enxuto, Faça comparações/analogias à jogos de videogame clássicos e utilize metáforas, Sempre deixe um título sugestivo por tópico |
 |  Imagem Final  | Crie uma imagem para o e-book, que contenha um cenário típico de um jogo clássico de video game, como o super mario world, no mesmo estilo de arte, mas sem infrigir as leis de propriedade intelectual  |
