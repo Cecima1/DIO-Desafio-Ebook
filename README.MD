@@ -1,12 +1,12 @@
 # Projeto EBOOK Gerado por I.A.s
+## 🍄💲 SUPER FGTS WORLD - Conheça as regras do Jogo
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
-seguem abaixo.
+Projeto realizado com fins didáticos, como parte da jornada do Bootcamp CAIXA IA Generativa com Microsoft Copilot, com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Cecima1/DIO-Desafio-Ebook/blob/main/output/Ebook%20-%20SUPER%20FGTS%20WORLD_Cecilia%20M%20Almeida.pdf" title="View PDF now"> 🍄 Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
