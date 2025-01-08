@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -30,7 +30,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.Ai](https://https://app.leonardo.ai/)
+- [Canva] (https://www.canva.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,53 +41,43 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Pesquisa Inicial  | Haja como um trabalhador brasileiro e me diga quais os principais temas relacionados ao FGTS você gostaria de saber ou entender melhor |
+|  título  | crie um título de um e-book sobre o tema FGTS, com os principais assuntos que você sugeriu anteriormente, o título deve ser curto e épico, e ter uma temática de game clássico no titulo, me liste 5 variações de títulos |
+| conteúdo | Faça um texto para ebook, listando os assuntos mais importantes destacados anteriormente {REGRAS} Explique sempre de maneira simples, Deixe o texto enxuto, Faça comparações/analogias à jogos de videogame clássicos e utilize metáforas, Sempre deixe um título sugestivo por tópico |
+|  Imagem Final  | Crie uma imagem para o e-book, que contenha um cenário típico de um jogo clássico de video game, como o super mario world, no mesmo estilo de arte, mas sem infrigir as leis de propriedade intelectual  |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Create a visually engaging platform game scene in a modernized pixel art style, inspired by classic retro games, The environment should feature vibrant colors, cheerful landscapes, and detailed floating platforms with a playful and lighthearted design, Replace traditional coins with polished golden coins that display a '$' symbol, representing real money, scattered across the scene, The design should be original, avoiding copyrighted elements, and include nostalgic details combined with a polished and modern visual appeal |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.Ai e ChatGPT
+- Edição Final via PowerPoint
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
+## 👨‍💻 ~~Expert~~ Iniciante
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    
+    <p>&nbsp&nbsp&nbspCecília M Almeida<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Cecima1">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/cecilia-martins-de-almeida-905112345/overlay/contact-info/#:~:text=Seu perfil-,linkedin.com/in/cecilia-martins-de-almeida-905112345,-E-mail">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
+    </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Cecília Martins](https://github.com/Cecima1)
