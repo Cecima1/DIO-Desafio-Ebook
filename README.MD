@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo.Ai](https://https://app.leonardo.ai/)
-- [Canva] (https://www.canva.com/)
+- [Canva](https://www.canva.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -47,7 +47,7 @@ ChatGPT：
 |  Imagem Final  | Crie uma imagem para o e-book, que contenha um cenário típico de um jogo clássico de video game, como o super mario world, no mesmo estilo de arte, mas sem infrigir as leis de propriedade intelectual  |
 
 
-Midjourney：
+Leonardo.Ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -67,16 +67,10 @@ Midjourney：
 ## 👨‍💻 ~~Expert~~ Iniciante
 
 <p>
-    
-    <p>&nbsp&nbsp&nbspCecília M Almeida<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Cecima1">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/cecilia-martins-de-almeida-905112345/overlay/contact-info/#:~:text=Seu perfil-,linkedin.com/in/cecilia-martins-de-almeida-905112345,-E-mail">LinkedIn</a>
-&nbsp;|&nbsp;
-    </p>
-<br/><br/>
-<p>
+    Cecília M Almeida<br>
+    <a href="https://github.com/Cecima1">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/cecilia-martins-de-almeida-905112345/">LinkedIn</a>
+</p>
 
 ---
 
